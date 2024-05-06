@@ -27,4 +27,3 @@ This Python project scrapes product information from the Digikala e-commerce web
 2. Install dependencies: `pip install -r requirements.txt`
 3. Set up MySQL database and configure connection settings.
 4. Run the main script to scrape data and store it in the database: `python src/ProductScraper.py`
-5. Use the provided Jupyter Notebook to explore the data and train the price prediction model.

@@ -1,0 +1,5 @@
+Requests
+BeautifulSoup
+Scikit-learn
+mysql
+unidecode
